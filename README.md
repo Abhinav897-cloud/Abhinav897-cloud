@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav897-cloud
 - 👀 I’m interested in Taekwondo
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Web projects
+- 💞️ I’m looking to collaborate on Python Development Works
 - 📫 How to reach me! Gmail- abhinav1.1027568@gmail.com
 
 
